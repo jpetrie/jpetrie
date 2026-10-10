@@ -1,4 +1,5 @@
 ## Hi
-I'm Josh. I'm a game developer, but most of my projects here are Neovim plugins or CMake utilities. 
+I'm Josh. I'm a game developer, although most of my public projects are Neovim plugins or CMake utilities.
 
-I am in the process of migrating these projects to [Codeberg](https://codeberg.org/jpetrie), so you may want to check there instead.
+All of my projects live at [Codeberg](https://codeberg.org/jpetrie) these days. I only use GitHub to fork GitHub-hosted
+projects that I am contributing to.
